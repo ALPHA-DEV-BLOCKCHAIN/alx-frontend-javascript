@@ -1,8 +1,6 @@
-// String literal type for subjects
 type Subjects = "Math" | "History";
 
-// teachClass function
-export function teachClass(todayClass: Subjects): string {
+export function teachClass(todayClass:Subjects): string {
   if (todayClass === "Math") {
     return "Teaching Math";
   } else {
