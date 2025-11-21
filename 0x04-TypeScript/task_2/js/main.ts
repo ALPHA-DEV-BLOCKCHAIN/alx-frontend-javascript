@@ -44,7 +44,6 @@ console.log(teachClass("History")); // Teaching History
 
 
 
-
 // // Director Interface
 // interface DirectorInterface {
 //   workFromHome(): string;
